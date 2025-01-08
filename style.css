@@ -57,7 +57,7 @@
     height: 800px;
     width: 100%;
 
-    background-image: url('../images/hardy.png'), url('../images/developer.png'),url('../images/header_bg.png');
+    background-image: url('/images/hardy.png'), url('/images/developer.png'),url('/images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right, center left,bottom right;
 }
