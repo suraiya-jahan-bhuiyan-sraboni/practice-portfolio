@@ -55,7 +55,7 @@
 
 @media screen and (max-width:997px) {
     .header {
-        height: 95vh;
+        height: 1275px;
         background-position: bottom center, center left, bottom right;
     }
 
